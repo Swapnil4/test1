@@ -9,6 +9,7 @@ public class A {
 	public static void main(String[] args) {
 		System.out.println("Swapnil");
 System.out.println("PATIL");
+System.out.println("PALLAVI");
 	
 	a.printStuff();
 	
