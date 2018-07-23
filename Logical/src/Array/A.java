@@ -8,7 +8,7 @@ public class A {
 
 	public static void main(String[] args) {
 		System.out.println("Swapnil");
-
+System.out.println("PATIL");
 		A a=new B();
 	a.printStuff();
 	
