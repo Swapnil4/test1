@@ -17,6 +17,8 @@ System.out.println("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
 System.out.println("welcome to project statating tllllllllllllllllllllll");
 
 System.out.println("********************************");
+
+System.out.println("what's study about angula5===============");
 	
 	a.printStuff();
 	
