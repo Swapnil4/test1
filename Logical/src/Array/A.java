@@ -15,6 +15,8 @@ System.out.println("PALLAVI");
 System.out.println("hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
 
 System.out.println("welcome to project statating tllllllllllllllllllllll");
+
+System.out.println("********************************");
 	
 	a.printStuff();
 	
